@@ -15,7 +15,7 @@
   </div>
 </p>
 
-Hi there 👋 I'm Santi, an Identity & Access Management Specialist with most experience in Active Directory and Azure. Also a PowerShell fanatic 🙈. You can usually find me answering [Powershell related questions](https://stackoverflow.com/questions/tagged/powershell) in Stack Overflow under and in the [PowerShell Discord](https://discord.com/invite/powershell) as the user __santisq#9241__.
+Hi there 👋 I'm Santi, an Identity & Access Management Specialist with most experience in Active Directory and Azure. Also a PowerShell fanatic 🙈. You can usually find me answering [Powershell related questions](https://stackoverflow.com/questions/tagged/powershell) in Stack Overflow and in the [PowerShell Discord](https://discord.com/invite/powershell) as the user __santisq#9241__.
 
 - 🔭 I’m currently working on whatever I feel at the moment...
 - 🌱 I’m currently learning how to be a better coder 😅...
