@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 [![](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santisq/)
 [![](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-squarzon/)
 [![](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15339544/santiago-squarzon)
@@ -13,3 +13,10 @@ Hi there 👋 I'm Santi, an Identity & Access Management Specialist with most ex
 - 🔭 I’m currently working on whatever I feel at the moment...
 - 🌱 I’m currently learning how to be a better coder 😅...
 - 💬 Ask me about PowerShell! Please!
+
+<br>
+<div align="center">
+
+[![](https://github-readme-stats.vercel.app/api?username=santisq&show_icons=true&theme=github_dark)](https://github.com/santisq/)
+
+</div>
