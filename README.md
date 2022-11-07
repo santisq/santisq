@@ -17,6 +17,6 @@ Hi there 👋 I'm Santi, an Identity & Access Management Specialist with most ex
 <br>
 <div align="center">
 
-[![](https://github-readme-stats.vercel.app/api?username=santisq&show_icons=true&theme=github_dark)](https://github.com/santisq/)
+![](https://github-readme-stats.vercel.app/api?username=santisq&show_icons=true&theme=discord_old_blurple)
 
 </div>
