@@ -3,6 +3,7 @@
 [![](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santisq/)
 [![](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-squarzon/)
 [![](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15339544/santiago-squarzon)
+[![](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee&style=for-the-badge)](https://www.buymeacoffee.com/santisq)
 [![](https://dcbadge.limes.pink/api/shield/223630623267487744)](https://discord.com/users/santisq#9241)
 
 </div>
