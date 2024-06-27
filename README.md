@@ -9,7 +9,7 @@
 </div>
 <br>
 
-Hi there 👋 I'm Santi, an Identity & Access Management Specialist with most experience in Active Directory and Azure. Also a PowerShell fanatic 🙈. You can usually find me at Stack Overflow helping with [PowerShell related questions](https://stackoverflow.com/questions/tagged/powershell) and in the [PowerShell Discord](https://discord.com/invite/powershell) as the user __santisq#9241__.
+Hi there 👋 I'm Santi, an Identity & Access Management Specialist with experience in Active Directory and Azure. Also a PowerShell aficionado 🙈. You can usually find me at Stack Overflow helping folks with [PowerShell related questions](https://stackoverflow.com/questions/tagged/powershell) and in the [PowerShell Discord](https://discord.com/invite/powershell) as the user __santisq#9241__.
 
 - 🔭 I’m currently working on whatever I feel at the moment...
 - 🌱 I’m currently learning and loving C# 😅...
