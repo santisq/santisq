@@ -18,9 +18,9 @@ Hi there 👋 I'm Santi, an Identity & Access Management Specialist with experie
 <br>
 <div align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=santisq&show_icons=true&theme=dark">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=santisq&show_icons=true&theme=dark" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=santisq&show_icons=true&theme=dark" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs?username=santisq&theme=dark">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santisq&theme=dark" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santisq&theme=dark" />
 </a>
 </div>
